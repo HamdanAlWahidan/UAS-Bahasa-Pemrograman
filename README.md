@@ -276,9 +276,10 @@ while True:
 
 
 * FOTO HASILNYA
-![Latihan 1.1](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN7/blob/main/Pertemuan7/latihan1.png) <br>
-![Latihan 1.2](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN7/blob/main/Pertemuan7/latihan1.png) <br>
-![Latihan 1.3](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN7/blob/main/Pertemuan7/latihan1.png) <br>
-![Latihan 1.4](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN7/blob/main/Pertemuan7/latihan1.png) <br>
-![Latihan 1.5](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN7/blob/main/Pertemuan7/latihan1.png) <br>
-![Latihan 1.6](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN7/blob/main/Pertemuan7/latihan1.png) <br>
+![Latihan 4.1](https://github.com/HamdanAlWahidan/UAS-Bahasa-Pemrograman/blob/main/SS%20UAS%20Pemrograman/1.png) <br>
+![Latihan 4.2](https://github.com/HamdanAlWahidan/UAS-Bahasa-Pemrograman/blob/main/SS%20UAS%20Pemrograman/2.png) <br>
+![Latihan 4.3](https://github.com/HamdanAlWahidan/UAS-Bahasa-Pemrograman/blob/main/SS%20UAS%20Pemrograman/3.png) <br>
+![Latihan 4.4](https://github.com/HamdanAlWahidan/UAS-Bahasa-Pemrograman/blob/main/SS%20UAS%20Pemrograman/4.png) <br>
+![Latihan 4.5](https://github.com/HamdanAlWahidan/UAS-Bahasa-Pemrograman/blob/main/SS%20UAS%20Pemrograman/5.png) <br>
+![Latihan 4.6](https://github.com/HamdanAlWahidan/UAS-Bahasa-Pemrograman/blob/main/SS%20UAS%20Pemrograman/6.png) <br>
+![Latihan 4.6](https://github.com/HamdanAlWahidan/UAS-Bahasa-Pemrograman/blob/main/SS%20UAS%20Pemrograman/7.png) <br>
